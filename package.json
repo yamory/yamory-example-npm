@@ -6,7 +6,7 @@
   "private": true,
   "author": "yamory",
   "dependencies": {
-    "jquery": "3.3.1",
+    "jquery": "3.4.0",
     "lodash": "4.17.9",
     "react-dom": "16.4.1"
   },
